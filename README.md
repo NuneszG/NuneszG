@@ -15,7 +15,3 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-<br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuneszxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
